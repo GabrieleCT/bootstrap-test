@@ -1,4 +1,2 @@
 # bootstrap-test
-Si tratta di un progetto di prova per imparare a utilizzare i seguenti framework:
-1. bootstrap
-2. react
+Si tratta di un progetto didattico per realizzare una guida sugli sviluppi web con le tecnologie più diffuse
